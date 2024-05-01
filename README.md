@@ -28,9 +28,9 @@
 ♻️ Reusable code with functions;<br>
 🧬 Data structures.
 
-<a href="https://helpful-jump-17b.notion.site/Mapa-de-aventura-91f3e9bd923842149d4dba754dc65c07" target="_blank">🔗=== Link here ====🔗<a><br> <br><br>
+<a href="https://helpful-jump-17b.notion.site/Mapa-de-aventura-91f3e9bd923842149d4dba754dc65c07" target="_blank">🔗=== Link aqui ====🔗<a><br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alike&weight=800&size=25&duration=3000&pause=1000&color=F7F7F7&random=false&width=435&lines=%E2%99%A8%EF%B8% 8F+Bootcamp+Santander+2024!+%E2%99%A8%EF%B8%8F)](https://git.io/typing-svg)<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alike&weight=800&size=25&duration=3000&pause=1000&color=F7F7F7&random=false&width=435&lines=%E2%99%A8%EF%B8%8F+Bootcamp+Santander+2024!+%E2%99%A8%EF%B8%8F)](https://git.io/typing-svg)<br><br>
 
 <h3>Author</h3>
 
